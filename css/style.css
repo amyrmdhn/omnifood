@@ -1,0 +1,15 @@
+/* Global reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* Reset the line height of the entire text */
+  line-height: 1;
+
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #555;
+}
